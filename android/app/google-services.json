@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "816185508876",
+    "project_id": "living-guide-253bf",
+    "storage_bucket": "living-guide-253bf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816185508876:android:cf9c9e7b9eb377e62b1a29",
+        "android_client_info": {
+          "package_name": "com.example.living_guide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB7iTEWfAiudgRTUPXEelPrehLbIe4t2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
