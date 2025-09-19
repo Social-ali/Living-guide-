@@ -62,7 +62,7 @@ git add .
 git commit -m "Describe your change"
 
 6️⃣ License
-This project is licensed under the MIT License
+This project is licensed under the [MIT License](https://github.com/Social-ali/Living-guide-/tree/main#)
 
 
 
